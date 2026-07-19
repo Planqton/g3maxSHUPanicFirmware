@@ -24,3 +24,5 @@ VCU ist per ST-Link immer wiederherstellbar, solange man ein Image hat.
 <p align="center">
   <img src="docs/app-unlock-code.png" alt="Unlock-Code-Editor der QuickConfig-App" width="330">
 </p>
+Other useful links
+[`sharkboy-j/ninebot-g3-max-vcu-speed-hack`](https://github.com/Sharkboy-j/ninebot-g3-max-vcu-speed-hack)
