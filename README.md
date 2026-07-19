@@ -3,11 +3,8 @@
 Gepatchte VCU-Firmware („PFW") für den **Ninebot G3 Max**, als SHU-Paket zum Flashen über die
 **ScooterHacking Utility**, plus eine Android-App zum Konfigurieren per Bluetooth.
 
-- **Panic-Taste** — frei belegbare Brems-/Tasten-Sequenz („Unlock-Code") am Roller.
-- **no-UID-lock** — die originale CFW ist an die Werks-Unique-ID *eines* VCU gebunden und läuft
-  sonst ohne Funktionen. Der Check ist entschärft → läuft auf jedem G3 Max.
-- **no-flash-lock** — die originale CFW blockt fremde Firmware beim OTA („Error 7 – firmware may be
-  restricted"). Entfernt → SHU kann jederzeit wieder etwas anderes draufflashen.
+- **Panic-Taste** — Switch ohne ausschalten des rolers in Originales Speed Limit.
+- **Custom Unlock Code** — frei belegbare Brems-/Tasten-Sequenz („Unlock-Code") am Roller.
 
 ## Flashen
 
